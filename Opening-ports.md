@@ -8,7 +8,7 @@
 
 # Troubleshooting
 
-## Does [http://127.0.0.1:31400](http://127.0.0.1:31400) work locally for you?
+### Does [http://127.0.0.1:31400](http://127.0.0.1:31400) work locally for you?
  
 - It should respond "OK FROM PORT 31400". 
 
@@ -18,11 +18,11 @@
 
 - Note that 127.0.0.1 is the *local IP address* of everybody's computer. That's why this address must work for everyone. 
 
-## Test if your computer ports are open using external tools.
+### Test if your computer ports are open using external tools.
 
 E.g. [yougetsignal.com/tools/open-ports/](http://yougetsignal.com/tools/open-ports/) and placing port 31400 in the port field
 
-## Find your external IP address here [yougetsignal.com/tools/open-ports/](http://yougetsignal.com/tools/open-ports/) 
+### Find your external IP address here [yougetsignal.com/tools/open-ports/](http://yougetsignal.com/tools/open-ports/) 
 
 Try visiting Your external IP address followed by :31400 on your browser to see if you get a response. 
 
