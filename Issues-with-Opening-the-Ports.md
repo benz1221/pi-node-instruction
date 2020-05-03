@@ -1,1 +1,0 @@
-Please let’s complete this section and help each other ease the difficulties of the “opening ports” part of the process.
