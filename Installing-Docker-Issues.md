@@ -9,7 +9,7 @@ Windows must have their "linux subsystem" turn on, in case you have turned it of
 
 Everybody else has to install Docker Toolbox, from [here](https://docs.docker.com/toolbox/toolbox_install_windows/). 
 
-## Did Docker Toolbox fail to install?
+## Did Docker Toolbox fail to install? - Install Hyper-C
 
 You most likely need to update something quick on your bios to allow "*virtualization*". 
 Specifically, [enable *Hyper-V* in the BIOS](https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-enabling-hyper-v-for-use-on-windows-10/ba-p/267945).
