@@ -4,9 +4,3 @@ Filling out the content is supposed to be a community effort, especially since s
 
 We can have sections translated in different languages. 
 
-To update this wiki you need to 
-1. fork it (top right corner)
-1. edit it however you see fit
-1. submit a pull request for us to "merge" you changes into the main wiki
-
-This process avoids random spammers destroying the content. 
