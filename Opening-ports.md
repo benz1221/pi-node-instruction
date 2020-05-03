@@ -1,10 +1,10 @@
 _**# Highlevel**_
 
-The ports need to be opened on your internet router as well as your Firewall. 
+- The ports need to be opened on your internet router as well as your Firewall. 
 
-The router should point to your machine. 
+- The router should point to your machine. 
 
-The machine's firewall should be allowing *incoming connection to Docker*, at least for the port range 31400-31409.
+- The machine's firewall should be allowing *incoming connection to Docker*, at least for the port range 31400-31409.
 
 _**# Troubleshooting**_
 
