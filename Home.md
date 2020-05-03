@@ -4,3 +4,5 @@ Filling out the content is supposed to be a community effort, especially since s
 
 We can have sections translated in different languages. 
 
+Click on the navigation on the side -->
+
