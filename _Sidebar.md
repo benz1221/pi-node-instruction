@@ -1,3 +1,2 @@
-* Installing Docker Desktop
-* Installing Docker Toolbox
+* Installing Docker
 * Openning ports
