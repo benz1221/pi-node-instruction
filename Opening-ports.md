@@ -10,5 +10,5 @@ It should respond "OK FROM PORT 31400". If not, then there is a problem within t
 **Test if your computer ports are open using external tools.** 
 E.g. [yougetsignal.com/tools/open-ports/](http://yougetsignal.com/tools/open-ports/) and placing port 31400 in the port field
 
-**Find your external IP here** [yougetsignal.com/tools/open-ports/](http://yougetsignal.com/tools/open-ports/) 
+**Find your external IP address here** [yougetsignal.com/tools/open-ports/](http://yougetsignal.com/tools/open-ports/) 
 Try visiting Your external IP address followed by :31400 on your browser to see if you get a response. For example http://123.45.67.89:31400 (but place your IP in the numbers)
