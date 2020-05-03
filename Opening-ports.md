@@ -22,7 +22,7 @@
 
 E.g. [yougetsignal.com/tools/open-ports/](http://yougetsignal.com/tools/open-ports/) and placing port 31400 in the port field
 
-**Find your external IP address here** [yougetsignal.com/tools/open-ports/](http://yougetsignal.com/tools/open-ports/) 
+3 **Find your external IP address here** [yougetsignal.com/tools/open-ports/](http://yougetsignal.com/tools/open-ports/) 
 
 Try visiting Your external IP address followed by :31400 on your browser to see if you get a response. 
 
