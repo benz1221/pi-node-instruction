@@ -14,7 +14,8 @@ _**# Troubleshooting**_
 
 - If not, then there is a problem within the computer and not the router. 
    - (firewall? antivirus?)
-  Either the port listener docker container is not running, or some firewall is blocking your port. 
+  
+   Either the port listener docker container is not running, or some firewall is blocking your port. 
 
 **Test if your computer ports are open using external tools.** 
 
