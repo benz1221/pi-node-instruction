@@ -19,6 +19,6 @@ _**Checking if the ports are open or listening:**_
 
 - Open the Command Prompt under Windows. (https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/)
 
-- Type in "**_netstat -aon_**" or "**_netstat -aon | findstr 3140_**"
+- Type in "**_netstat -aon_**" or "**_netstat -aon | findstr 31400_**"
 
 - Check if the ports **31400** until **31409** are "listening".
