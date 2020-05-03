@@ -13,3 +13,12 @@ _**Windows firewall: How to open Ports:**_
 - Select the network type & choose Next.
 
 - Name it "Pi Network" & click Finish.
+
+
+_**Checking if the ports are open or listening:**_
+
+- Open the Command Prompt under Windows. (https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/)
+
+- Type in "**netstat -aon**"
+
+- Check if the ports 31400 until 31409 are "listening".
