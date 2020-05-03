@@ -8,7 +8,7 @@
 
 # Troubleshooting
 
-**Does [http://127.0.0.1:31400](http://127.0.0.1:31400) work locally for you?**
+1 **Does [http://127.0.0.1:31400](http://127.0.0.1:31400) work locally for you?**
  
 - It should respond "OK FROM PORT 31400". 
 
@@ -18,7 +18,7 @@
    Either the port listener docker container is not running, or some firewall is blocking your port. 
 
 
-**Test if your computer ports are open using external tools.** 
+2 **Test if your computer ports are open using external tools.** 
 
 E.g. [yougetsignal.com/tools/open-ports/](http://yougetsignal.com/tools/open-ports/) and placing port 31400 in the port field
 
