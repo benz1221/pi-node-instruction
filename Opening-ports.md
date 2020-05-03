@@ -9,7 +9,7 @@ _**# Highlevel**_
 _**# Troubleshooting**_
 
 **Does [http://127.0.0.1:31400](http://127.0.0.1:31400) work locally for you?**
-
+  - (firewall? antivirus?)
 - It should respond "OK FROM PORT 31400". 
 
 - If not, then there is a problem within the computer and not the router. 
