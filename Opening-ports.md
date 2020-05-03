@@ -1,4 +1,4 @@
-_**# Highlevel**_
+# Highlevel**
 
 - The ports need to be opened on your internet router as well as your Firewall. 
 
@@ -6,8 +6,7 @@ _**# Highlevel**_
 
 - The machine's firewall should be allowing *incoming connection to Docker*, at least for the port range 31400-31409.
 
-_**# Troubleshooting**_
-
+# Troubleshooting
 
 **Does [http://127.0.0.1:31400](http://127.0.0.1:31400) work locally for you?**
  
