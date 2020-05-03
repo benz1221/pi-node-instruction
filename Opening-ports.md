@@ -13,10 +13,10 @@
 - It should respond "OK FROM PORT 31400". 
 
 - If not, then there is a problem within the computer and not the router. 
-   - (firewall? antivirus?)
-  
-   Either the port listener docker container is not running, or some firewall is blocking your port. 
+  - (firewall? antivirus?)
+  - Either the port listener docker container is not running, or some firewall is blocking your port. 
 
+- Note that 127.0.0.1 is the *local IP address* of everybody's computer. That's why this address must work for everyone. 
 
 ## Test if your computer ports are open using external tools.
 
