@@ -1,4 +1,4 @@
-Windows firewall: How to open Ports:
+_**Windows firewall: How to open Ports:**_
 
 Goto Control Panel, System & Security, Windows Firewall.
 
