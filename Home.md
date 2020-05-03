@@ -6,3 +6,5 @@ We can have sections translated in different languages.
 
 Click on the navigation on the side -->
 
+To edit this page you simply need a GitHub account and to click `Edit`.
+
