@@ -1,4 +1,4 @@
-It happens for users under **Windows 10** Home that it seem that the Docker installation process fails due to virtualization issues.
+It happens that for users under **Windows 10 Home** that the Docker installation process fails due to virtualization issues.
 
 Therefore to ensure a proper virtualization process we recommend you to enable **Hyper-V** in the BIOS.
 
