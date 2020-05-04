@@ -4,7 +4,7 @@
 
     [Windows 10 Home](https://www.youtube.com/watch?v=D0__7Jw6i0w) komplette Installation (von Mitchou Ptchou alias @micaelleal890)
 
-    [MacOShttps://www.hegion.com/setup-guide-for-pi-node/](https://www.hegion.com/setup-guide-for-pi-node/) komplette Installation (by Hegion)
+    [MacOS]https://www.hegion.com/setup-guide-for-pi-node/](https://www.hegion.com/setup-guide-for-pi-node/) komplette Installation (by Hegion)
 
     [Windows Defender](https://www.youtube.com/watch?v=FGTev_X9tXI) Instruktionen (von UslessPlayer) -- Bemerkung: Sie können die Ports alle gleichzeitig von 31400 - 31409 aktivieren.
 
