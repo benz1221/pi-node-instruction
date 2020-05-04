@@ -1,4 +1,4 @@
-# Bienvenue sur le wiki PI Network!
+# ¡Bienvenue sur le wiki PI Network!
 
 **Ce wiki contient des instructions sur l'installation du noeud PI Network
 
