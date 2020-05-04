@@ -1,4 +1,4 @@
-# Menu en espagnol
+# Menu en français
 
 * Début
 * Liens de téléchargement
