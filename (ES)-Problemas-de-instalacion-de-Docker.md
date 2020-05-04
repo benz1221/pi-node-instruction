@@ -14,3 +14,5 @@ Los usuarios de otras versiones de Windows deben instalar Docker desde [aquí](h
 ## ¿Falló la instalación de Docker Toolbox? - Habilita Hyper-C
 
 Lo más seguro es que tengas que actualizar algo en la BIOS para poder habilitar la "*virtualización*". Específicamente, [habilitar *Hyper-V* en la BIOS](https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-enabling-hyper-v-for-use-on-windows-10/ba-p/267945) (**en ingles**).
+
+Créditos: [mexicanito](https://github.com/mexicanito)
