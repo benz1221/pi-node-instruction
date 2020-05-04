@@ -8,5 +8,14 @@ Click on the navigation on the side -->
 
 To edit this page you simply need a GitHub account and to click `Edit`.
 
+---------------------------------------------------------------------------------
+### Menú en Español
+
+Den clic [aquí](https://github.com/pi-node/instructions/wiki/(ES)-====-SPANISH-====) para acceder al menú en español. Está ordenado con los temas y los respectivos enlaces, para que eviten estar buscando en el sidebar.
+
+Créditos: [mexicanito](https://github.com/mexicanito)
+
+---------------------------------------------------------------------------------
+
 
 
