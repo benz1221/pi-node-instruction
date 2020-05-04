@@ -10,6 +10,6 @@
 
 * [Port Forwarding Tutorial for generic router](https://m.youtube.com/watch?v=S6fx8xvkenw&app=m&persist_app=1) (by UslessPlayer) -- Note: Internal IPs often change after reboot, you need to tell your router to follow your computer (e.g. by giving it a static IP or by following its Mac address or name)
 
-* [PI NETWORK..PI Node connection problems with ports #3 PROBLEM SOLVED](https://youtu.be/Zp6iOM5RGAI) (von UslessPlayer)
+* [PI NETWORK..PI Node connection problems with ports #3 PROBLEM SOLVED](https://youtu.be/Zp6iOM5RGAI) (by UslessPlayer)
 
-* [Complete Guide to Install Pi Node Packages  (Docker + Router Ports for Windows 10)](https://www.youtube.com/watch?v=QBDQeNVRNak) (von PiNetworkMarket) add yours..
+* [Complete Guide to Install Pi Node Packages  (Docker + Router Ports for Windows 10)](https://www.youtube.com/watch?v=QBDQeNVRNak) (by PiNetworkMarket) add yours..
