@@ -8,3 +8,5 @@ La última versión del nodo de PI Network es la **0.1.0**. La versión que tien
 [Instalador para otras versiones de Windows (toolbox)](https://docs.docker.com/toolbox/toolbox_install_windows/)
 
 [Instalador para MAC](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
+
+Créditos: [mexicanito](https://github.com/mexicanito)
