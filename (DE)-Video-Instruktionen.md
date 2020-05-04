@@ -12,7 +12,7 @@
 
     Port Forwarding Instruktionen für generische Router (by UslessPlayer) -- Bemerkung: Interne IP-Adressen wechseln nach einen Neustart, um dies zu vermeiden können sie ihrem Router sagen, dass er den Computer nach folgen soll (Bsp.: indem sie ihm eine statische IP-Adresse geben oder in dem sie ihm durch seine MAC-Adresse oder Namen folgen).
 
-    https://youtu.be/Zp6iOM5RGAI (von UslessPlayer)
+    [https://youtu.be/Zp6iOM5RGAI](https://youtu.be/Zp6iOM5RGAI) (von UslessPlayer)
 
-    https://www.youtube.com/watch?v=QBDQeNVRNak (von PiNetworkMarket) Fügen sie ihren hier bei..
+    [https://www.youtube.com/watch?v=QBDQeNVRNak](https://www.youtube.com/watch?v=QBDQeNVRNak) (von PiNetworkMarket) Fügen sie ihren hier bei..
 
