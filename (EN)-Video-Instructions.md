@@ -12,4 +12,7 @@
 
 * [PI NETWORK..PI Node connection problems with ports #3 PROBLEM SOLVED](https://youtu.be/Zp6iOM5RGAI) (by UslessPlayer)
 
-* [Complete Guide to Install Pi Node Packages  (Docker + Router Ports for Windows 10)](https://www.youtube.com/watch?v=QBDQeNVRNak) (by PiNetworkMarket) add yours..
+* [Complete Guide to Install Pi Node Packages  (Docker + Router Ports for Windows 10)](https://www.youtube.com/watch?v=QBDQeNVRNak) (by PiNetworkMarket) 
+
+
+add yours..
