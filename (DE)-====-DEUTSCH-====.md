@@ -1,6 +1,5 @@
 German translation.
 
-links below are broken. Click on the sidebar instead ==>
 # Menü auf Deutsch
 * Anfang
 * Links abfragen
