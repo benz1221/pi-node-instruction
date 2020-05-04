@@ -5,3 +5,5 @@
 * [MacOS](https://www.hegion.com/setup-guide-for-pi-node/) paso a paso (por Hegion)
 
 Añade el tuyo aquí... (y ayuda a los noobs)
+
+Créditos: [mexicanito](https://github.com/mexicanito)
