@@ -8,7 +8,7 @@
 
 * [Port Forwarding Tutorial for users of *Virgin Media Hub 3.0*](https://www.youtube.com/watch?v=WFzSKut0jO4) (by Beardedbob)
 
-* https://m.youtube.com/watch?v=S6fx8xvkenw&app=m&persist_app=1 (by UslessPlayer)
+* [Port Forwarding Tutorial for generic router](https://m.youtube.com/watch?v=S6fx8xvkenw&app=m&persist_app=1) (by UslessPlayer)
 
 * https://youtu.be/Zp6iOM5RGAI (by UslessPlayer)
 
