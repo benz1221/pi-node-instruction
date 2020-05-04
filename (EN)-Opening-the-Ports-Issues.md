@@ -38,6 +38,22 @@ For example http://123.45.67.89:31400 (but place your IP in the numbers)
 - Select the network type & choose Next.
 - Name it "Pi Network" & click Finish.
 
+### Docker Toolbox on Windows: How to forward the Ports:
+
+- Open VirtualBox Manager
+- Right click on the VM named ```default``` (docker vm), select Settings...
+- Go to Network
+- Go to the Adapter tab that is attached to NAT
+- Expand Advanced
+- Click on ```Port Forwarding```
+- For all ports (31400-31409)
+  - Click on + 
+  - Give the new rule a unique name (e.g.: Pi Node 3140x)
+  - Fill in the port under *Host port* and *Guest Port*
+  - Leave Host IP and Guest IP blank
+- Click OK to save Port Forwarding Rules
+- Click OK to save Settings
+
 
 ### Checking if the ports are open or listening
 
