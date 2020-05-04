@@ -4,7 +4,7 @@
 
 * [MacOS](https://www.hegion.com/setup-guide-for-pi-node/) entire walk through (by Hegion)
 
-* [**Windows Defender** Instructions](https://www.youtube.com/watch?v=FGTev_X9tXI) (by UslessPlayer) -- Note: that you can enable all ports at once using the range 31400 - 31409. 
+* [Windows Defender Instructions](https://www.youtube.com/watch?v=FGTev_X9tXI) (by UslessPlayer) -- Note: that you can enable all ports at once using the range 31400 - 31409. 
 
 * [Port Forwarding Tutorial for users of *Virgin Media Hub 3.0*](https://www.youtube.com/watch?v=WFzSKut0jO4) (by Beardedbob) 
 
