@@ -47,3 +47,4 @@ For example http://123.45.67.89:31400 (but place your IP in the numbers)
 
 ### Changing ports with my mobile device as Hotspot (not feasible)
 Most of the times the IP that you get with your mobile connection is already under a **NAT** from your provider, it's basically inside a private network with a single public IP for multiple people to connect with. So the requests are blocked by the ISP router and you can't do anything about it. You need a _public IP_ to be able to receive requests on specific ports.
+(This can be bypassed by using a VPN which gives a dedicated IP and allows opening ports.  Success has been had with Torguard VPN)
