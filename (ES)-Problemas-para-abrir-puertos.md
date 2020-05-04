@@ -43,3 +43,5 @@ Visita tu IP pública: Obtén tu dirección IP pública desde la misma página (
 
 ### Cambiar los puertos con el celular como punto de acceso (Hotspot) (no es posible)
 La mayoría de las veces la dirección IP que obtienes con tu conexión móvil ya está bajo un **NAT** de tu proveedor. Básicamente está dentro de una red privada con una sola dirección IP pública para que se conecten varias personas. Por lo tanto, el router de tu proveedor ISP bloquea las solicitudes y no puedes hacer nada al respecto. Necesitas una _dirección IP pública_ para poder recibir solicitudes en puertos específicos.
+
+Créditos: [mexicanito](https://github.com/mexicanito)
