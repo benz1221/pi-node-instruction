@@ -1,10 +1,10 @@
 Menu in English
-* (EN) Download links
-* (EN) Enabling Hyper V for Windows 10 Home Users
-* (EN) Installing Docker Issues
-* (EN) Opening ports for Zyxel NGB6515 router
-* (EN) Opening the Ports Issues
-* (EN) Video Instructions
+* Download links
+* Enabling Hyper V for Windows 10 Home Users
+* Installing Docker Issues
+* Opening ports for Zyxel NGB6515 router
+* Opening the Ports Issues
+* Video Instructions
 
 
 
