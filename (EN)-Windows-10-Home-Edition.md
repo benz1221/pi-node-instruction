@@ -8,13 +8,13 @@ The community will continue to update these guides as we learn better how to str
 
 # STEP 1
 You need to assign your PC a local static IP using your router and forward ports 31400-31409 to it. I can't say how to do this for your specific router, but searching 
-(https://www.portforward.com "Port Forward") is a place to start.
+[Port Forward](https://www.portforward.com "Port Forward") is a place to start.
 
 # STEP 2
 You also need to create rules in Windows Defender Firewall. You want an inbound and outbound rule allowing traffic on TCP (and probably UDP too) for 31400-31409 for Public, Private, and Domain networks (at least that's what I did).
 
 # STEP 3
-Install **Docker Toolbox**. There is a link provided in the Pi Node app, or use this one: (https://github.com/docker/toolbox/releases/download/v19.03.1/DockerToolbox-19.03.1.exe). Make sure you check to include all the options. When installation completes, you should have 3 icons on your Desktop for Docker Quickstart Terminal, Oracle VM VirtualBox, and Kitematic.
+Install **Docker Toolbox**. There is a link provided in the Pi Node app, or use this one: <https://github.com/docker/toolbox/releases/download/v19.03.1/DockerToolbox-19.03.1.exe>. Make sure you check to include all the options. When installation completes, you should have 3 icons on your Desktop for Docker Quickstart Terminal, Oracle VM VirtualBox, and Kitematic.
 
 *A quick explanation of the icons:*
 Docker Toolbox installs Docker, a Linux-based software for running applications in a "container". The "container" safely stores these programs away from the rest of your computer. Docker Toolbox also installs Oracle VM VirtualBox. Kitematic uses this to create a Linux VM (virtual machine) to run Docker inside of.
@@ -50,6 +50,11 @@ Click the green + to add a rule. On the new rule, change Host Port to 31400 and 
 Add an additional rule for each of the ports 31400-31409.
 
 Click Ok, Ok, and then Close Oracle VM VirtualBox.
+
+You can verify that your ports are forwarding correctly by using a tool like this one: <https://www.yougetsignal.com/tools/open-ports/>
+The first field will automatically fill in with your external IP address (if you've ever wondered what it was). Put the single port you want to check in the second field (one within 31400-31409 in this case). Then hit "Check".
+
+*Note: A port will appear closed if nothing is listening on that port. Pi Node should be running to check.*
 
 #STEP 6
 Open the Pi Network Node app now. Go to Node, Continue, and check that it can see Docker, the daemon, and check the ports are open.
