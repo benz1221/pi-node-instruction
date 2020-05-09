@@ -11,10 +11,18 @@ You need to assign your PC a local static IP using your router and forward ports
 [Port Forward](https://www.portforward.com "Port Forward") is a place to start.
 
 # STEP 2
-You also need to create rules in Windows Defender Firewall. You want an inbound and outbound rule allowing traffic on TCP (and probably UDP too) for 31400-31409 for Public, Private, and Domain networks (at least that's what I did).
+You also need to create rules in Windows Defender Firewall. You want an inbound and outbound rule allowing traffic on TCP for 31400-31409 for Public, Private, and Domain networks (at least that's what I did).
+
+Right-click on your network icon (WiFi or Ethernet plug icon, in the bottom right) and select "Open Network & Internet settings". Look for and click "Windows Firewall" (towards the bottom middle of the screen that popped up).
+
+On the new screen that popped up, select "Advanced settings". You'll need administrator rights on your computer to do this, and a little box will pop up. You'll need to hit "Yes" to continue.
+
+Yet another window will pop up, this one called "Windows Defender Firewall with Advanced Security". Click on "Inbound Rules" toward the top left. Then click "New Rule..." toward the top right. Select "Port" then "Next" then "TCP" (should be the default) then "Specific local ports:". In the field to the right, type in ```31400-31409```, then "Next". Select "Allow the connection" (the default), then "Next", then check "Domain", "Private", and "Public" before hitting "Next" again. Type in a name like "pi node ports" and a description if you like, then "Finish".
+
+Repeat the steps above, except click "Outbound Rules". Note that "Block the connection" is the default and should be changed to "Allow the connection" just like above.
 
 # STEP 3
-Install **Docker Toolbox**. There is a link provided in the Pi Node app, or use this one: <https://github.com/docker/toolbox/releases/download/v19.03.1/DockerToolbox-19.03.1.exe>. Make sure you check to include all the options. When installation completes, you should have 3 icons on your Desktop for Docker Quickstart Terminal, Oracle VM VirtualBox, and Kitematic.
+Install **Docker Toolbox**. There is a link provided in the Pi Node app, or use this one: <https://github.com/docker/toolbox/releases/download/v19.03.1/DockerToolbox-19.03.1.exe>. You don't have to "Help Docker improve Toolbox" (just un-check it) but make sure you include "Docker Compose for Windows", "VirtualBox", and "Kitematic for Windows (Alpha)". When installation completes, you should have 3 icons on your Desktop for Docker Quickstart Terminal, Oracle VM VirtualBox, and Kitematic.
 
 *A quick explanation of the icons:*
 Docker Toolbox installs Docker, a Linux-based software for running applications in a "container". The "container" safely stores these programs away from the rest of your computer. Docker Toolbox also installs Oracle VM VirtualBox. Kitematic uses this to create a Linux VM (virtual machine) to run Docker inside of.
