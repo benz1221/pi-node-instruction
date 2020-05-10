@@ -21,6 +21,7 @@
 ### Test if your computer ports are open using external tools.
 
 E.g. [yougetsignal.com/tools/open-ports/](http://yougetsignal.com/tools/open-ports/) and placing port 31400 in the port field
+[https://www.ipfingerprints.com/portscan.php](https://www.ipfingerprints.com/portscan.php) automatically finds your external IP address and allows you to specify the full port range.
 
 ### Find your external IP address here [yougetsignal.com/tools/open-ports/](http://yougetsignal.com/tools/open-ports/) 
 
