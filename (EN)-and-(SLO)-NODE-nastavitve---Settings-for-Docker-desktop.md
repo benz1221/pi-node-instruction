@@ -5,7 +5,7 @@ Mac users please follow instruction bellow
 
 Step by step tutorial.
 
-https://drive.google.com/open?id=1O8h5Ovx0zpFSflSbJzG1xLhpKfEIHeqg
+https://drive.google.com/open?id=1GcamiI3RnFTF_QuOf2vF-v0J1V00f4c8
 
 **Slovenian version**
 
