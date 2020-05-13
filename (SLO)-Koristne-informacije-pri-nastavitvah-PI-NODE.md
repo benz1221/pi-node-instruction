@@ -13,6 +13,8 @@ Pinging your computer tu je zadevica, ki je najtežja do sedaj nekaj navodil naj
 
 Za testiranje IP-ja uporabite https://www.ipfingerprints.com/portscan.php
 
+Pri sami namestitvi docker desktopa na windows 10 prosim počakajte, ker si morate še zraven dograditi sistem s pomočjo https://code.visualstudio.com/blogs/2020/03/02/docker-in-wsl2, tu se zadevice še testirajo in mi ne odgovarjamo za kakršno koli namestitev, katero nismo uspeli testirati ali pridobiti končne informacije.
+
 Nekaj dokumentov imamo na spletni strani https://www.pinetwork.si/
 
 Žal bo moral vsak malo poiskati svojo rešitev, ker uporabnikov je veliko Ekipa je še premajhna, da bi lahko vsakemu posebaj razlagali.
