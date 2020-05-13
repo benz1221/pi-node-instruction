@@ -5,7 +5,7 @@ https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-enabling-hyp
 
 Preverimo par bistvenih načel: 
 ✓
-Downloading ports listener ( prepričajte se da ste na linux containerju) to vidite, če kliknete na kita v desnem spodnjem meniju in pogledate na čem deluje v kolikor vidite run in linux container potem zamenjajte na linux)
+Downloading ports listener ( prepričajte se da ste na linux containerju) to vidite, če kliknete na kita v desnem spodnjem meniju in pogledate če piše windows potem je ok.
 ✓
 Starting ports listener ko boste imeli sliko imenovano stellar dummy se vam bo ta krogec pognal sam v kolikor ne bo prvi pognal tudi drugega ne dobite. 
 ✓
