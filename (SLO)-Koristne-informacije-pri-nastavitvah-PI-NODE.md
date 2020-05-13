@@ -13,6 +13,10 @@ Pinging your computer tu je zadevica, ki je najtežja do sedaj nekaj navodil naj
 
 Za testiranje IP-ja uporabite https://www.ipfingerprints.com/portscan.php
 
+Nekaj dokumentov imamo na spletni strani https://www.pinetwork.si/
+
+Žal bo moral vsak malo poiskati svojo rešitev, ker uporabnikov je veliko Ekipa je še premajhna, da bi lahko vsakemu posebaj razlagali.
+
 Nekaj navodil je v angleščini na voljo prav tako na hub wiki strani https://github.com/pi-node/instructions/wiki
 
 Sproti bomo dodatli še nastavitve, katere bomo pridobili.Hvala za vaše razumevanje Ekipa Pi Slovenije
