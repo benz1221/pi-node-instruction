@@ -1,1 +1,1 @@
-Instrucciones en vídeo
+视频教程：[Win10专业版](https://mp.weixin.qq.com/s?__biz=MzI1MTg4NDAxMw==&mid=2247483736&idx=1&sn=c283a5c6c331f5884f18dd4bf156d7e0&chksm=e9ed79dade9af0cce6bd0b6bfe55ec58bb07bbab1b7fc153427d5431ae7d09656533220df436&token=1630933315&lang=zh_CN#rd)
