@@ -4,7 +4,7 @@ Menu in English
 * Installing Docker Issues
 * Opening ports for Zyxel NGB6515 router
 * Opening the Ports Issues
-* Settings for Docker desktop
+* Settings for Docker toolbox
 * Video Instructions
 
 
