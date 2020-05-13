@@ -9,7 +9,7 @@ Downloading ports listener ( prepričajte se da ste na linux containerju) to vid
 ✓
 Starting ports listener ko boste imeli sliko imenovano stellar dummy se vam bo ta krogec pognal sam v kolikor ne bo prvi pognal tudi drugega ne dobite. 
 ✓
-Pinging your computer tu je zadevica, ki je najtežja do sedaj nekaj navodil najdete https://www.manualslib.com/manual/700825/Netgear-C3700.html?page=86 port, katere morate odpreti so 31400-31409 
+Pinging your computer tu je zadevica, ki je najtežja do sedaj nekaj navodil najdete https://www.computerhope.com/issues/ch001201.htm port, katere morate odpreti so 31400-31409 svoj modem ali ruter poiščite na internetu ali pokličite tehnično pomoč, kjer vam bosdo pomagali.
 
 Za testiranje IP-ja uporabite https://www.ipfingerprints.com/portscan.php
 
