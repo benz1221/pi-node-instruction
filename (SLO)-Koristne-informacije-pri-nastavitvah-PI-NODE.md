@@ -1,6 +1,6 @@
 Navodila za Docker toolbox so tukaj https://drive.google.com/open?id=1dv3paeo-MhJMSe9rjGfdXvylI24Fps4r
 
-Težave pri virtalizaciji najdete na tem naslovu HAYPER -V REŠITEV
+Težave pri virtualizaciji najdete na tem naslovu HAYPER -V REŠITEV
 https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-enabling-hyper-v-for-use-on-windows-10/ba-p/267945
 
 Preverimo par bistvenih načel: 
