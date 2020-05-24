@@ -30,7 +30,7 @@ change port for 31400
 open command prompt
 go to c:\users\yourname
 
-type node ports.js
+:\> node ports.js
 
 it should say server running at ......  then information you changed.
 
