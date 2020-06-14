@@ -36,7 +36,7 @@ it should say server running at ...... (information you changed)
 
 ## Test Server Inside your computer
 
-In a web browser go to http://ipaddressfromabove:31400
+In a web browser go to http://yourcomputerIP:31400
 
 If you get the page hello world, the server is working. 
 
@@ -44,7 +44,7 @@ If you get the page hello world, the server is working.
 
 With another computer or mobile phone in your house on your wifiyou can run an intermediate test
 
-In a web browser go to http://ipaddressfromabove:31400
+In a web browser go to http://yourcomputerIP:31400
 
 If you get the page hello world, the port is open and working inside your network at least.
 
