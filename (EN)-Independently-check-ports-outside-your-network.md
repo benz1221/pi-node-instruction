@@ -34,15 +34,16 @@ go to c:\users\yourname
 
 it should say server running at ......  then information you changed.
 
-## Test Server
+## Test Server Inside your network
 
-If you have another computer in your house you can run an intermediate test
+With another computer or mobile phone in your house on your wifiyou can run an intermediate test
 
 In a web browser go to http://ipaddressfromabove:31400
 
 If you get the page hello world, the port is open and working inside your network at least.
+
  
-To test the port from outside. 
+## Test Server outside your network
 
 Find your external ip at https://www.whatsmyip.org/
 
