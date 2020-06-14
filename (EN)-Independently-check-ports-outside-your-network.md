@@ -26,7 +26,7 @@ change hostname for internal ip of your computer
 
 change port for 31400 
 
-## Run Webserver
+## Run Server
 open command prompt
 go to c:\users\yourname
 
@@ -38,7 +38,7 @@ it should say server running at ......  then information you changed.
 
 In a web browser go to http://ipaddressfromabove:31400
 
-If you get the page hello world, the port is open and working inside your computer. 
+If you get the page hello world, the server is working. 
 
 ## Test Server Inside your network
 
