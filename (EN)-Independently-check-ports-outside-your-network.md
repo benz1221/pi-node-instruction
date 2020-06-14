@@ -32,7 +32,7 @@ go to c:\users\yourname
 
 `C:\users\yourname> node ports.js`
 
-it should say server running at ......  then information you changed.
+it should say server running at ...... (information you changed)
 
 ## Test Server Inside your computer
 
