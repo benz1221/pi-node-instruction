@@ -17,6 +17,6 @@ ko je vse končano,
 7. korak
 namestite docker [docker desktop link](https://www.docker.com/products/docker-desktop) 
 
-S spoštovanjem Ekipa SLovenije (bamisonic in prevod coco195).
+S spoštovanjem Ekipa SLovenije (bamisonic in coco195).
 
 
