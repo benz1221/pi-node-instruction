@@ -2,7 +2,7 @@ Navodila za namestitev
 
 Win 10 home, pro .... + WSL2 + Docker namizje
 1. korak
-Najprej posodobite win do različice 2004 [win 10 version 2004]"(https://support.microsoft.com/en-us/help/4028685/windows-10-get-the-update)"
+Najprej posodobite win do različice 2004 [windows 10 posodobitev na verzijo 2004 link](https://support.microsoft.com/en-us/help/4028685/windows-10-get-the-update)
 2. korak
 Odprite powershell kot administrator - nato vnesete prvi ukaz (samo kopiraj prilepi) - **dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart**
 3. korak
