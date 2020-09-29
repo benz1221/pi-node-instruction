@@ -11,3 +11,7 @@ http://github.com/boot2docker/boot2docker/releases/download/v19.03.5/boot2docker
 
 docker toolbox - **Mac**
 https://hub.docker.com/editions/community/docker-ce-desktop-mac
+
+# IMPORTANT UPDATE
+For all windows 10 users!!
+[New settings from August 2020](https://github.com/pi-node/instructions/wiki/(EN)-New-instructions-for-docker-desktop-with-wsl2-(windows-2004))
