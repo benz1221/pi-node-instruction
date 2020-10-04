@@ -1,5 +1,5 @@
-
-Win 10 home,pro .... + WSL2 + Docker desktop First update win to version 2004 
+# ATTENTION!! IF YOU HAVE DOCKER DESKTOP OR TOOLBOX UNINSTALL ALL BEFORE CONTINUE WITH SET UP BELOW!!
+## Win 10 home,pro .... + WSL2 + Docker desktop First update win to version 2004 
 
 and then follow the steps 
 Use first – powershell admin – command (just copy paste)
