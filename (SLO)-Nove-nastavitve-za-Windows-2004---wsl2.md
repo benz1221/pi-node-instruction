@@ -1,6 +1,8 @@
-Navodila za namestitev
+# Navodila za namestitev
 
-Win 10 home, pro .... + WSL2 + Docker namizje
+## **OPOZORILO V KOLIKOR IMATE DOCKER TOOLBOX ALI DESKTOP NAJPREJ ODSTRANITE LE TEGA IN POTEM SLEDITE POSTOPKU SPODAJ**
+
+### Win 10 home, pro .... + WSL2 + Docker namizje
 1. korak
 Najprej posodobite win do različice 2004 [win 10 version 2004]"(https://support.microsoft.com/en-us/help/4028685/windows-10-get-the-update)"
 2. korak
