@@ -19,16 +19,21 @@
 
 
 三、安裝並啟用 Windows 子系統 Linux 版
+
 (1)以系統管理員身分開啟PS並執行
 滑鼠至左下角微軟圖標，按右鍵，點擊 Windows PowerShell(系統管理員) 這欄
 會開啟藍色框
+
 (2)貼上下列並執行(按enter)(很快，大約一秒鐘完成)
+
  dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 
 
 四、啟用虛擬機器功能(在安裝WSL2之前，您必須啟用虛擬機器平台)
+
 1、在PS黑框內
 2、貼上下列執行(按enter)(很快，大約一秒鐘完成)
+
  dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 
 
