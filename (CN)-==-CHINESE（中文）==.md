@@ -106,10 +106,12 @@
 4、在PS黑框內輸入下列，檢查安裝及預設啟動是否正確
  wsl -l -v
  (必須都小寫，l是L的小寫字)
+
  顯示：
  *Docker-Desktop-Data 2
  Docker-Desktop 2
  (如果*號的位置不在Docker-Desktop-Data前，在PS黑框內輸入下列執行)
+
  (wsl --set-default docker-desktop-data)
  (點DOCKER圖標左鍵，點RESTART重新啟動DOCKER)
 
