@@ -80,7 +80,8 @@
 
 十、下載與安裝 Pi Node 節點軟件
 1、到官網下載(貼上下面鏈接到瀏覽器執行就下載`目前0.3.8版本)
-=>>  node.minepi.com
+
+=>>  [node.minepi.com](node.minepi.com)
 下載後點擊執行
 
 
