@@ -1,9 +1,8 @@
 [windows10专业版](https://www.sohu.com/a/436775920_120577049)
 
 
-PI節點架設 流程
 
-【WIN系統電腦PI節點架設流程】
+【WIN系統電腦PI節點架設流程】  (kyle2051 及 yah2020 編輯 )
 
 
 一、檢查電腦版本
@@ -18,12 +17,14 @@ PI節點架設 流程
 設定→更新與安全性(windows update)→點擊 檢查更新
 (根據電腦狀況，需要很長時間)
 
+
 三、安裝並啟用 Windows 子系統 Linux 版
 (1)以系統管理員身分開啟PS並執行
 滑鼠至左下角微軟圖標，按右鍵，點擊 Windows PowerShell(系統管理員) 這欄
 會開啟藍色框
 (2)貼上下列並執行(按enter)(很快，大約一秒鐘完成)
  dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+
 
 四、啟用虛擬機器功能(在安裝WSL2之前，您必須啟用虛擬機器平台)
 1、在PS黑框內
@@ -39,6 +40,7 @@ PI節點架設 流程
  
 1、開啟瀏覽器
 2、網址列貼上下面鏈接並執行(如果無法連上，可能要使用VPN)
+
 [wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
 
 3、下載需一段時間，下載好點擊瀏覽器左下角的 wsl_update_x64.msi 安裝
@@ -49,6 +51,7 @@ PI節點架設 流程
 七、將 WSL 2 設定為預設版本
  在PS黑框內貼上下列執行
  wsl --set-default-version 2
+
 
 八、電腦防火牆出入規則端口設置
 1、滑鼠至左下角微軟圖標，按右鍵，點擊 控制面板
@@ -62,27 +65,32 @@ PI節點架設 流程
 9、(三個勾)下一步
 10、名稱欄輸入 pi node (隨便填都可以，好認為主)，點完成
 
+
 九、路由器 設置固定電腦IP和端口31400-31409
 1、右下角"網絡圖標"，點下去，點 內容，拉到下面，有個IPv4位址記下來(類似這樣：192.168.1.100)
 2、IPv4下面有個IPv4 DNS伺服器(路由器進入口)，位址記下來，(類似這樣：192.168.1.1)
 3、根據你的路由器型號，上網搜尋，"型號+如何將電腦IP固定教程"。
 4、根據步驟將IPv4位址固定好。
 
+
 十、下載與安裝 Pi Node 節點軟件
 1、到官網下載(貼上下面鏈接到瀏覽器執行就下載`目前0.3.8版本)
 =>>  node.minepi.com
 下載後點擊執行
+
 
 十一、Node 綁定 Pi App
 1、上一步驟啟動節點後，在首頁點擊右邊 電腦圖標(節點)，會顯示一組號碼
 2、開啟手機 Pi App，點左上角 三 ，點 Node，將電腦上的號碼輸入到手機上
 3、完成後就是開通節點了
 
+
 十二、安裝docker
 1、在電腦節點內點擊 install DOCKER
 
 2、點擊安裝 docker desktop (注意是桌面板，不要選錯)
 另外附上下載連接
+
 [https://hub.docker.com/editions/community/docker-ce-desktop-windows/](https://hub.docker.com/editions/community/docker-ce-desktop-windows/)
 
 3、會開始下載並安裝(會跳出白框)，過程中
