@@ -2,7 +2,7 @@
 
 * [Windows 10 Home](https://www.youtube.com/watch?v=D0__7Jw6i0w) entire walk through (by Mitchou Ptchou alias @micaelleal890)
 
-* [MacOS](https://www.hegion.com/setup-guide-for-pi-node/) entire walk through (by Hegion)
+* [MacOS](https://www.hegion.com/guide/pi-node-setup-guide-for-mac-os/) entire walk through (by Hegion)
 
 * [Windows Defender Instructions](https://www.youtube.com/watch?v=FGTev_X9tXI) (by UslessPlayer) -- Note: that you can enable all ports at once using the range 31400 - 31409. 
 
