@@ -1,5 +1,5 @@
 # Pi友如何从零开始做节点（自学篇）
-`原创 老P`
+### `原创 @pleass 老P`
 
 ## 写在文章前（文章欢迎转载）
 
@@ -299,8 +299,10 @@ Docker软件已经是绿色对号，说明是安装正确，并正在运行。�
 
 第五，老p一如既往的支持pi，现在，将来。不为别的，只因为我手中有币！
 
-## 没有接到供是容器的测试页面
+## 没有获选参与共识容器的测试页面
 
 ![](https://github.com/net538/node-images/blob/main/33.png)
 ![](https://github.com/net538/node-images/blob/main/34.jpg)
 ![](https://github.com/net538/node-images/blob/main/35.png)
+
+### `原创：pleass`  `编辑：yeh2020`  `2021/02/08`
