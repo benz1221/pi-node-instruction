@@ -1,4 +1,6 @@
 
+If present, the docker container needs to be shutdown before you try this. 
+
 ## NodeJS
 
 Download and install nodejs from
