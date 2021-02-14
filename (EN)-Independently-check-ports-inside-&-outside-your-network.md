@@ -1,5 +1,5 @@
 
-If present, the docker container needs to be shutdown before you try this. 
+If present, the docker container needs to be stopped before you try this. 
 
 ## NodeJS
 
