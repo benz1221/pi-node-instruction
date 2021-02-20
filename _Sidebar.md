@@ -19,6 +19,7 @@
     - [Installing Docker Issues]((EN)-Installing-Docker-Issues)
     - [Opening ports for Zyxel NGB6515 router]((EN)-Opening-ports-for-Zyxel-NGB6515-router)
     - [Opening the Ports Issues]((EN)-Opening-the-Ports-Issues)
+    - [Ping request issue]((EN)-Ping-request-issue)
     - Settings for Docker toolbox
       - [Win 7]((EN)-Settings-for-Docker-toolbox-winows-7-only)
     - [Video Instructions]((EN)-Video-Instructions)
