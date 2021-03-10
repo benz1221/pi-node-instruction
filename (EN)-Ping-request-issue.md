@@ -41,7 +41,7 @@ click Ok then Apply and Ok
 
 ## Routers: Allow WAN Ping.  
 
-Usually routers have an option under admin pages that can be turned on or off for this option.
+Usually routers have an option under admin/security/firewall pages that can be turned on or off for this option.
 D-Link routers have removed the option, on some models, Allow WAN ping from administrative page.  
 An walkaround is to enable Virtual Server and point it to your computer IP address.  
 Under protocol type you should be able to manually write the protocol number which for ICMP is 1.
