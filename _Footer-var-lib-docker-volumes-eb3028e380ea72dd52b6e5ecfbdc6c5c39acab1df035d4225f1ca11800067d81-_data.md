@@ -1,1 +1,0 @@
-If you have unanswered node questions/problems, use the [Issues](https://github.com/pi-node/instructions/issues) page or visit [https://www.reddit.com/r/PiNetwork/](https://www.reddit.com/r/PiNetwork/)

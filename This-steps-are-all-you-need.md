@@ -1,0 +1,1 @@
+Do not promote other unoficial sites without aproval.
