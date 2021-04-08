@@ -22,6 +22,11 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 5. korak ročno prenesite in namestite wsl2 link za 64 bitne sisteme  sledite spodnji povezavi
 
 (https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package)
+bodite pozorni da najdete prenos v (koraku 4) 
+**Step 4 - Download the Linux kernel update package**
+**Download the latest package:**
+
+*** WSL2 Linux kernel update package for x64 machines**
 
 6. korak Odprite powersheel kot skrbnik – zadnji ukaz – 
 wsl –-set-default-version 2
