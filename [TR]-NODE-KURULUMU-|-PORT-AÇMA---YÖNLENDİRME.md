@@ -15,8 +15,8 @@ Nodelar, yani düğümler, bu mutabakat algoritmasını çalıştırmak ve sonuc
 
 
 ## Pi Node kurulumu
-[Pi Node Windows](https://downloads.minepi.com/Pi+Network+Setup+0.1.0.exe) | 
-[Pi Node Mac](https://downloads.minepi.com/Pi+Network-0.1.0.dmg) 
+[Pi Node Windows 0.4.4 -güncel-](https://node-cdn.minepi.com/Pi%20Network%20Setup%200.4.4.exe) | 
+[Pi Node Mac 0.4.4 -güncel-](https://node-cdn.minepi.com/Pi%20Network-0.4.4.dmg) 
 linklerini kullanarak Pi Network uygulamasını bilgisayarınıza indirin. 
 Pc uygulamasından aldığınız 8 haneli kodu cep telefonunuzda Pi uygulumasının "Menu > Node" ekranındaki kutuya girip uygulamaları senkronize edin ve ardından pc uygulaması üzerinde node bölümüne gidin. 
 
