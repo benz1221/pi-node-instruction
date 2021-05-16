@@ -37,6 +37,10 @@ Windows 10 Home - 8.1 - 8 - 7 sürümleri için
 linklerini kullanarak uygulamayı indirin.
 
 Takip eden görsel anlatımlar Windows 10 Home versiyonu için geçerlidir.
+▒▒▒
+DOCKER DESKTOP ARTIK WINDOWS 10 HOME DESTEĞİ DE SUNUYOR
+[BURAYA TIKLAYARAK](https://desktop.docker.com/win/stable/amd64/Docker%20Desktop%20Installer.exe) İNDİREBİLİRSİNİZ.
+▒▒▒
 ![Docker start](https://i.ibb.co/9sdnq8V/docker1.jpg)
 
 Masaüstünde Docker Quickstart Terminali çalıştırın.
