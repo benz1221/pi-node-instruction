@@ -42,8 +42,11 @@ Takip eden görsel anlatımlar Windows 10 Home versiyonu için geçerlidir.
 
 DOCKER DESKTOP ARTIK WINDOWS 10 HOME DESTEĞİ DE SUNUYOR
 [BURAYA TIKLAYARAK](https://desktop.docker.com/win/stable/amd64/Docker%20Desktop%20Installer.exe) İNDİREBİLİRSİNİZ.
+YAPMANIZ GEREKEN TEK ŞEY DOCKER DESKTOP İNDİRİP KURMAK VE Pİ NODE ÇALIŞTIRMAK.
+PORT İLE İLGİLİ YÖNLENDİRMELERİ TAMAMLADIKTAN SONRA NODE ARAYÜZÜ ÜZERİNDEN DEVAM EDEBİLİRSİNİZ.
 
 ▒▒▒
+
 ![Docker start](https://i.ibb.co/9sdnq8V/docker1.jpg)
 
 Masaüstünde Docker Quickstart Terminali çalıştırın.
