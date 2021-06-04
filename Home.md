@@ -40,6 +40,6 @@ Welcome to the instructions wiki!
     - [Node verzija 0.3.4 prevod]((SLO)-Node-verzija-0.3.4---prevod)
     - [Nove nastavitve za Windows 2004 wsl2]((SLO)-Nove-nastavitve-za-Windows-2004---wsl2)
   - [TR NODE KURULUMU | PORT AÇMA YÖNLENDİRME](%5BTR%5D-NODE-KURULUMU-%7C-PORT-AÇMA---YÖNLENDİRME)
-
+https://github.com/pi-node/instructions.wiki.git
 ***
 Feel free to translate and add pages. Remember that you have to update the sidebar as well!
