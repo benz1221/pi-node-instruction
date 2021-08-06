@@ -11,7 +11,7 @@ https://nodejs.org/en/download/
 (you don't need the chocolatey addon option) 
 
 ## Create file
-In explorer navigate to c:\users\yourname
+In explorer navigate to c:\users\yourname, 
 on the view tab, tick "file name extensions"
 
 on the home tab, "new item", text document
