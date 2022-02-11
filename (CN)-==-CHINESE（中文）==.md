@@ -168,9 +168,12 @@
 
 非官方Pi Node Telegram 中文頻道
 https://t.me/pi56789
+
 非官方Pi Node Telegram 中文群組
 https://t.me/pi678
+
 非官方Pi Node Telegram 英文群組
 https://t.me/PIhelpteam
+
 非官方Pi Network 台灣論壇_PiNode架設教學
 https://apex.acdccollege.com/forum.php?mod=forumdisplay&fid=65
