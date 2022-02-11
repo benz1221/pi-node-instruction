@@ -165,3 +165,12 @@
 5、以上步驟中綠色無法打勾，請看Mods FAQ問題排除。
 
 (第三方防毒軟件會使到軟件部份功能無法啟用，偵測端口無法正常運作，運作節點的電腦不需要第三方防毒軟件。如需使用，請自行在防毒軟件內設置，這裏無法提供協助！)
+
+非官方Pi Node Telegram 中文頻道
+https://t.me/pi56789
+非官方Pi Node Telegram 中文群組
+https://t.me/pi678
+非官方Pi Node Telegram 英文群組
+https://t.me/PIhelpteam
+非官方Pi Network 台灣論壇_PiNode架設教學
+https://apex.acdccollege.com/forum.php?mod=forumdisplay&fid=65
