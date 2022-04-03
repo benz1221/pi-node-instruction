@@ -2,8 +2,6 @@
 
 * [Windows 10 Home](https://www.youtube.com/watch?v=D0__7Jw6i0w) komplette Installation (von Mitchou Ptchou alias @micaelleal890)
 
-* [MacOS](https://www.hegion.com/setup-guide-for-pi-node/) komplette Installation (by Hegion)
-
 * [Windows Defender](https://www.youtube.com/watch?v=FGTev_X9tXI) Instruktionen (von UslessPlayer) -- Bemerkung: Sie können die Ports alle gleichzeitig von 31400 - 31409 aktivieren.
 
 * [Port Forwarding](https://www.youtube.com/watch?v=WFzSKut0jO4) Instruktionen für die Benutzer von Virgin Media Hub 3.0 (von Beardedbob)
@@ -13,4 +11,8 @@
 * [PI NETWORK..PI Node connection problems with ports #3 PROBLEM SOLVED](https://youtu.be/Zp6iOM5RGAI) (von UslessPlayer)
 
 * [Complete Guide to Install Pi Node Packages  (Docker + Router Ports for Windows 10)](https://www.youtube.com/watch?v=QBDQeNVRNak) (von PiNetworkMarket) Fügen sie ihren hier bei..
+
+* [MacOS]( <Der vorherige Link ist ungültig> Stand April 2022 ) komplette Installation (by Hegion)
+
+
 
