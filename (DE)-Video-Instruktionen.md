@@ -12,7 +12,7 @@
 
 * [Complete Guide to Install Pi Node Packages  (Docker + Router Ports for Windows 10)](https://www.youtube.com/watch?v=QBDQeNVRNak) (von PiNetworkMarket) Fügen sie ihren hier bei..
 
-* [MacOS]( <Der vorherige Link ist ungültig> Stand April 2022 ) komplette Installation (by Hegion)
+* [MacOS] https://www.youtube.com/watch?v=ONtL_R_J6vM ( von Santo Tube ) MAC Installation in Englisch. Bitte ersetzen, wenn eine deutsche Version verfügbar ist. Zur Portfreischaltung bitte die original Apple Firewall Dokumentation einsehen ( Dir Ports müssen für die Docker Software freigegeben werden ). Die beschriebenen Port Scan und Port Forwarding Mechanismen gelten auf für MAC Systeme. 
 
 
 
