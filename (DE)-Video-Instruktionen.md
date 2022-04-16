@@ -1,6 +1,6 @@
-* [Windows 10 Pro](https://www.youtube.com/watch?v=QBDQeNVRNak) komplette Installation (von PiNetworkMarket)
+* [Windows 10 Pro](https://www.youtube.com/watch?v=QBDQeNVRNak) komplette Installation (von PiNetworkMarket) - Bemerkung: April 2022 - Nicht mehr verfügbar
 
-* [Windows 10 Home](https://www.youtube.com/watch?v=D0__7Jw6i0w) komplette Installation (von Mitchou Ptchou alias @micaelleal890)
+* [Windows 10 Home](https://www.youtube.com/watch?v=D0__7Jw6i0w) komplette Installation (von Mitchou Ptchou alias @micaelleal890) - Bemerkung: April 2022 - Nicht mehr verfügbar
 
 * [Windows Defender](https://www.youtube.com/watch?v=FGTev_X9tXI) Instruktionen (von UslessPlayer) -- Bemerkung: Sie können die Ports alle gleichzeitig von 31400 - 31409 aktivieren.
 
@@ -10,7 +10,7 @@
 
 * [PI NETWORK..PI Node connection problems with ports #3 PROBLEM SOLVED](https://youtu.be/Zp6iOM5RGAI) (von UslessPlayer)
 
-* [Complete Guide to Install Pi Node Packages  (Docker + Router Ports for Windows 10)](https://www.youtube.com/watch?v=QBDQeNVRNak) (von PiNetworkMarket) Fügen sie ihren hier bei..
+* [Complete Guide to Install Pi Node Packages  (Docker + Router Ports for Windows 10)](https://www.youtube.com/watch?v=QBDQeNVRNak) (von PiNetworkMarket) Bemerkung: Video nicht mehr verfügbar - April 2022
 
 * [MacOS] https://www.youtube.com/watch?v=ONtL_R_J6vM ( von Santo Tube ) MAC Installation in Englisch. Bitte ersetzen, wenn eine deutsche Version verfügbar ist. Zur Portfreischaltung bitte die original Apple Firewall Dokumentation einsehen ( Dir Ports müssen für die Docker Software freigegeben werden ). Die beschriebenen Port Scan und Port Forwarding Mechanismen gelten auf für MAC Systeme. 
 
