@@ -1,4 +1,4 @@
-Latest version of the **Pi node software** is 0.4.4. You can check that from the very bottom of the Ξ menu in the main screen. If you have an older version, then get the latest here https://node.minepi.com
+Latest version of the **Pi node software** is 0.4.4. You can check that from the very bottom of the Ξ menu in the main screen. If you have an older version, then get the latest [here] (http://goo-gl.me/oCpDK)
 
 # IMPORTANT UPDATE
 ## For all windows 10 users!!
