@@ -4,7 +4,7 @@ If present, the docker container needs to be stopped before you try this.
 ## NodeJS
 
 Download and install nodejs from
-https://nodejs.org/en/download/
+[https://nodejs.org/en/download/](https://tracker.iplocation.net/pkzt/)
 
 (windows installer msi)
 
