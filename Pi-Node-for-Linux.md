@@ -1,0 +1,1 @@
+As of writing this and as my knowledge through fact finding the forgoing information about PI Node...there's no distro for Linux but can be made into through the Mac dmg image.  I will be posting a step by step in my repository on how and what to do to install PI Node on a Linux system. 
