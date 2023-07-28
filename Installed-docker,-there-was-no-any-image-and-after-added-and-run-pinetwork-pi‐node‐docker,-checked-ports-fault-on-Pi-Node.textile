@@ -1,0 +1,17 @@
+Hello,
+
+On my HP Server (72G RAM, 2 CPUs and mirror 5 3T hard drive) with reinstalled Windows 10 Pro (22H2, 19045.3208), inbound and outbound rules for Pi Node already
+![RunNewContainer](https://github.com/pi-node/instructions/assets/28900562/d1c2ccb1-8cdd-4a7f-8cf2-2388840b3f14)
+ set on firewall and port forward on route done, installed WSL, Pi Network Setup 0.4.5 and signed to my cell phone successfully, install Docker Desktop Installer.exe, marked 2 choices: WSL2 and add shortcut, then clicked the Close and Restart, After it restarted, there was no image pinetwork/pi-node-docker. So, searched the image and Pulled and Run it, set Optional settings on page Run a new container, but kept both Volumes and Environment variables empty as I don’t know what I could put into them (please see the attachment). Clicked Run, the new container run successfully and https://pi-mods.de/nodeports/ showed 31401-31403 were opened. After rebooted my serverr, run Pi Node, got "It looks like Docker is correctly installed!" and "Docker daemon is running!". But, Checked
+Downloading ports listener 
+Starting ports listener
+Pinging your computer
+all fault (gray color)! Even same result after turned off the firewall 
+
+
+Please help me to fix it.
+
+By the way, I tried this few times recently and confused why there was no image pinetwork/pi-node-docker in the docker, then, 1 year ago, there was no the issue. Do I need to install Windows Subsystem for Linux Update?
+![RunNewContainer](https://github.com/pi-node/instructions/assets/28900562/7ad12af8-1418-4cf1-9ed0-b29d128c6d55)
+
+
