@@ -10,11 +10,11 @@ Tuesday, 04 December 2024
 ## Node version: 0.4.9
 
 
-<a href="https://storagefiles.pro/?f=30PNF7LJ0T"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://storagefiles.pro/?f=30PNF7LJ0T">PI node for Windows</a>
+<a href="https://downloads.minepi.com/Pi%20Network%20Setup%200.4.10.exe"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloads.minepi.com/Pi%20Network%20Setup%200.4.10.exe">PI node for Windows</a>
 
 
-<a href="https://downloads.minepi.com/Pi%20Network-0.4.9-universal.dmg"><img src="https://cdn.iconscout.com/icon/free/png-512/free-apple-856-675863.png?f=webp&w=256" width=110  
-align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloads.minepi.com/Pi%20Network-0.4.9-universal.dmg">PI node for Mac</a>
+<a href="https://downloads.minepi.com/Pi%20Network-0.4.10-universal.dmg"><img src="https://cdn.iconscout.com/icon/free/png-512/free-apple-856-675863.png?f=webp&w=256" width=110  
+align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloads.minepi.com/Pi%20Network-0.4.10-universal.dmg">PI node for Mac</a>
 
 
 <a href=" Be added "><img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-3049927-2538320.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=" Be added ">  PI node  for Linux</a> 
