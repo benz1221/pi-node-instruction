@@ -1,1 +1,0 @@
-Test stránky provedl Roman Tlustý 18.1.2023
