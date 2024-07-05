@@ -61,7 +61,8 @@ Visit the Moderator-generated Community Wiki page for additional information and
 Community Wiki pages are edited and maintained by the Pi Chat Moderator community and are not official statements of the Pi Core Team.
 <a href="https://www.pi.app/wiki" class="btn btn-round btn-hero border-purple"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Community wiki</font></font></a>
 
-
+**Explore the Support Portal**
+> Have a problem with the Pi App or your Pi account?
 Report a bug or send an email in the Support Portal.
 Please read the relevant Community Wiki on this issue before submitting an email request.
 <a href="https://www.pi.app/support" class="btn btn-round btn-hero border-purple">Support Portal</a>
