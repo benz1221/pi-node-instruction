@@ -55,6 +55,11 @@ This version of the node includes two interfaces: the node interface and the des
 
 > The blockchain component of the Node will be open sourced. We are in the process of tidying up the github repository so that we can proceed with the open sourcing. We aim to maintain a list of open issues directly on the github repository, which community members will be able to contribute to, if they like. Stay tuned. 
 
+**Look for Answers in the Community Wiki**
+> Need instructions about Pi App features?
+Visit the Moderator-generated Community Wiki page for additional information and instructional guidance, for example, how to sign up, how to verify your account, or how to troubleshoot issues.
+Community Wiki pages are edited and maintained by the Pi Chat Moderator community and are not official statements of the Pi Core Team.
+<a href="https://www.pi.app/wiki" class="btn btn-round btn-hero border-purple"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Community wiki</font></font></a>
 
 **Explore the Support Portal**
 > Have a problem with the Pi App or your Pi account?
