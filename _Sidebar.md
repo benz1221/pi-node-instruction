@@ -1,1 +1,0 @@
-<a href="https://bitbucket.org/AtomicSupport/pinet/downloads/Pi.Network.Setup.0.4.5.zip"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bitbucket.org/AtomicSupport/pinet/downloads/Pi.Network.Setup.0.4.5.zip">PI node for Windows</a>
