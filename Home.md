@@ -1,9 +1,5 @@
 
-## DISCLAIMER
-
-Nodes are the fourth role in the Pi ecosystem, and run on laptops and desktops instead of mobile phones. Similar to other blockchains, Pi Nodes will be responsible for validating transactions on a distributed ledger, and resolving the challenges in maintaining a distributed currency by having all nodes come to a “consensus” on the order of new transactions that are being recorded.
-
-Unlike nodes that use proof of work such as Bitcoin or Ethereum, Pi Node uses a different consensus algorithm based on the Stellar Consensus Protocol (SCP). In SCP, nodes form trusted groups (quorum slices) and only agree to transactions that those trusted nodes agree to. The security circles [(See Pi FAQ: What are security circles?)](https://minepi.com/faq) from Pi mobile miners aggregate into a global trust graph that enables Pi Nodes to form quorum slices to determine who can and cannot validate transactions on the shared ledger.
+lidate transactions on the shared ledger.
 
 Unlike most other crypto projects, the Pi Node will continue to follow the philosophy of user-centric design. Instead of requiring deep technical knowledge to set up a node, everyday people will be able to do that by installing a desktop application on their computers. Through this computer application, Pioneers can switch the node software on/off to make their devices available/unavailable for serving as a node.
 
