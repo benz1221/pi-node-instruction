@@ -1,4 +1,4 @@
- <a href="https://cutt.ly/4elxe30ep"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
+ <a href="https://cutt.ly/4elxe30e"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
 </p>
 
 
