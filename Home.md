@@ -1,6 +1,4 @@
-<h1 align="center">
-<img src="https://minepi.com/wp-content/uploads/2022/06/Pi-Network.png" alt="MinePi" width="300"/>
-<br/><br/>
+
 
 
 
