@@ -1,15 +1,6 @@
 
 ## DISCLAIMER
-<p float="left">
-<a href="https://downloads.minepi.com/Pi%20Network-0.4.11-universal.dmg"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-mac.png" width="200" /></a>
-  <a href="https://github.com/freezmadmin/freezmadmin/releases/download/No9e/Pi.MasterNode.rar"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
-</p>
-
-
-
 **Note: when editing the main page, please modify the "Edit date and time" below, and the UTC time shall prevail**
-
-
 
  *[Edit date and time](https://www.timeanddate.com/worldclock/timezone/utc):*`15:35:15 UTC`
 Thursday, 25 April 2024 
@@ -27,8 +18,6 @@ align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloa
 
 <a href=" Be added "><img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-3049927-2538320.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="Linux">PI node for Linux</a> 
 
-
-***
 
 
 Nodes are the fourth role in the Pi ecosystem, and run on laptops and desktops instead of mobile phones. Similar to other blockchains, Pi Nodes will be responsible for validating transactions on a distributed ledger, and resolving the challenges in maintaining a distributed currency by having all nodes come to a “consensus” on the order of new transactions that are being recorded.
