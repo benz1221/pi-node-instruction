@@ -5,8 +5,7 @@
 ## DISCLAIMER
 **Note: when editing the main page, please modify the "Edit date and time" below, and the UTC time shall prevail**
 
-@@ -13,7 +9,7 @@ Thursday, 25 April 2024
-## Node version: 0.4.11
+
 
 
 <a href="https://cutt.ly/4elxe30e"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cutt.ly/4elxe30e">PI node for Windows</a>
