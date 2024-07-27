@@ -1,5 +1,5 @@
 
-
+## DISCLAIMER
 **Note: when editing the main page, please modify the "Edit date and time" below, and the UTC time shall prevail**
 
  *[Edit date and time](https://www.timeanddate.com/worldclock/timezone/utc):*`15:35:15 UTC`
@@ -9,6 +9,7 @@ Thursday, 25 April 2024
 ## Node version: 0.4.11
 
 
+<a href="https://downloads.minepi.com/Pi%20Network%20Setup%200.4.11.exe"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloads.minepi.com/Pi%20Network%20Setup%200.4.11.exe">PI node for Windows</a>
 
 
 <a href="https://downloads.minepi.com/Pi%20Network-0.4.11-universal.dmg"><img src="https://cdn.iconscout.com/icon/free/png-512/free-apple-856-675863.png?f=webp&w=256" width=110  
