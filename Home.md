@@ -1,8 +1,6 @@
-###  <a href="https://cutt.ly/4elxe30e"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIA6EQGWpIc35oJ9C3CNGLXceYtWVitsCc3gfQrvvDVmefEWY72Rd70m4PaYTq6DTOUpA&usqp=CAU" width="200" /></a>
-### </p>
 
- ## DISCLAIMER
- **Note: when editing the main page, please modify the "Edit date and time" below, and the UTC time shall prevail**
+## DISCLAIMER
+**Note: when editing the main page, please modify the "Edit date and time" below, and the UTC time shall prevail**
 
  *[Edit date and time](https://www.timeanddate.com/worldclock/timezone/utc):*`15:35:15 UTC`
 Thursday, 25 April 2024 
