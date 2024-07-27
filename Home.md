@@ -1,14 +1,6 @@
 
 ## DISCLAIMER
 
-
-align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloads.minepi.com/Pi%20Network-0.4.11-universal.dmg">PI node for Mac</a>
-
-
-<a href=" Be added "><img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-3049927-2538320.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="Linux">PI node for Linux</a> 
-
-
-
 Nodes are the fourth role in the Pi ecosystem, and run on laptops and desktops instead of mobile phones. Similar to other blockchains, Pi Nodes will be responsible for validating transactions on a distributed ledger, and resolving the challenges in maintaining a distributed currency by having all nodes come to a “consensus” on the order of new transactions that are being recorded.
 
 Unlike nodes that use proof of work such as Bitcoin or Ethereum, Pi Node uses a different consensus algorithm based on the Stellar Consensus Protocol (SCP). In SCP, nodes form trusted groups (quorum slices) and only agree to transactions that those trusted nodes agree to. The security circles [(See Pi FAQ: What are security circles?)](https://minepi.com/faq) from Pi mobile miners aggregate into a global trust graph that enables Pi Nodes to form quorum slices to determine who can and cannot validate transactions on the shared ledger.
