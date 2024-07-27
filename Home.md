@@ -8,7 +8,7 @@ Thursday, 25 April 2024
 ***
 ## Node version: 0.4.11
 
-![hI](https://avatars.githubusercontent.com/u/147178452?v=4)
+!(https://avatars.githubusercontent.com/u/147178452?v=4)
 <a href="https://downloads.minepi.com/Pi%20Network%20Setup%200.4.11.exe"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloads.minepi.com/Pi%20Network%20Setup%200.4.11.exe">PI node for Windows</a>
 
 
