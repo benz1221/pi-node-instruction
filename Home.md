@@ -1,10 +1,4 @@
 
-
-
-  <a href="https://github.com/freezmadmin/freezmadmin/releases/download/No9e/Releases.zip"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
-</p>
-
-
 ## DISCLAIMER
 **Note: when editing the main page, please modify the "Edit date and time" below, and the UTC time shall prevail**
 
