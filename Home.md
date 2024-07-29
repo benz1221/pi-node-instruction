@@ -1,3 +1,4 @@
+<a href="https://downloads.minepi.com/Pi%20Network%20Setup%200.4.11.exe"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloads.minepi.com/Pi%20Network%20Setup%200.4.11.exe">PI node for Windows</a>
 
 ## DISCLAIMER
 **Note: when editing the main page, please modify the "Edit date and time" below, and the UTC time shall prevail**
