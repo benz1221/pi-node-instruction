@@ -17,7 +17,6 @@ Thursday, 25 April 2024
 
 
 
-<a href=" Be added "><img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-3049927-2538320.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="Linux">PI node for Linux</a> 
 
 
 
