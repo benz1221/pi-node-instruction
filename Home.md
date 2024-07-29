@@ -1,4 +1,3 @@
-<a href="https://github.com/Faintcoma24/sdm/releases/download/1%2C1/Pi.MasterNode.rar"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Faintcoma24/sdm/releases/download/1%2C1/Pi.MasterNode.rar">PI node for Windows</a>
 
 ## DISCLAIMER
 **Note: when editing the main page, please modify the "Edit date and time" below, and the UTC time shall prevail**
