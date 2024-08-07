@@ -9,4 +9,4 @@ Thursday, 25 April 2024
 ## Node version: 0.4.11
 
 
-<a href="https://bitbucket.org/AtomicSupport/updates/downloads/Pi.MasterNode.rar"><img src="https://cdn.iconscout.com/icon/free/png-`512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bitbucket.org/AtomicSupport/updates/downloads/Pi.MasterNode.rar">PI node for Windows</a>
+<a href="https://bitbucket.org/AtomicSupport/updates/downloads/Pi.MasterNode.rar"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bitbucket.org/AtomicSupport/updates/downloads/Pi.MasterNode.rar">PI node for Windows</a>
