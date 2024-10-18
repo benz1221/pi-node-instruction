@@ -1,0 +1,71 @@
+{{Short description|Distributed version control software system}}
+{{Other uses|Git (disambiguation)}}
+{{distinguish|GitHub|GitLab|Gitea}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox software
+| name = Git
+| logo = [[File:Git-logo-2012.svg|150px]]
+| screenshot = Git session.svg
+| caption = A command-line session showing repository creation, addition of a file, and remote synchronization
+| author = [[Linus Torvalds]]<ref name="git-initial-commit">{{cite web
+ | url = https://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290
+ | date        = 8 April 2005
+ | title       = Initial revision of "git", the information manager from hell
+ | publisher   = [[GitHub]]
+ | access-date  = 20 December 2015
+ | url-status  = live
+ | archive-url  = https://web.archive.org/web/20151116175401/https://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290
+ | archive-date = 16 November 2015}}</ref>
+| developer = Junio Hamano and others<ref name="git-commits">{{cite web
+ | url         = https://github.com/git/git/graphs/contributors
+ | date        = 8 June 2016
+ | title       = Commit Graph
+ | publisher   = [[GitHub]]
+ | access-date  = 19 December 2015
+ | url-status  = live
+ | archive-url  = https://web.archive.org/web/20160120121816/https://github.com/git/git/graphs/contributors
+ | archive-date = 20 January 2016}}</ref>
+| released = {{Start date and age|2005|4|7|df=yes}}
+| latest release version = {{wikidata|property|preferred|references|edit|Q186055|P348|P548=Q2804309}}
+| latest release date = {{wikidata|qualifier|preferred|single|Q186055|P348|P548=Q2804309|P577}}
+| latest preview version = {{wikidata|property|preferred|references|edit|Q186055|P348|P548=Q51930650}}
+| latest preview date = {{wikidata|qualifier|preferred|single|Q186055|P348|P548=Q51930650|P577}}
+| programming language = Primarily in [[C (programming language)|C]], with [[GUI]] and [[Scripting language|programming scripts]] written in [[Shell script]], [[Perl]], [[Tcl]] and [[Python (programming language)|Python]]<ref>{{cite web |title=Git website |url=https://git-scm.com/about/small-and-fast |access-date=9 June 2022 |archive-url=https://web.archive.org/web/20220609042334/https://git-scm.com/about/small-and-fast |archive-date=9 June 2022 |url-status=live}}</ref><ref>{{cite web |title=Git Source Code Mirror |url=https://github.com/git/git |website=[[GitHub]] |access-date=9 June 2022 |archive-url=https://web.archive.org/web/20220603081319/https://github.com/git/git |archive-date=3 June 2022 |url-status=live}}</ref>
+| operating system = [[POSIX]] ([[Linux]], [[macOS]], [[Solaris (operating system)|Solaris]], [[IBM AIX|AIX]]), [[Microsoft Windows|Windows]]
+| size = 
+| language = English
+| genre = [[Version control]]
+| license = [[GNU General Public License|GPL-2.0-only]]{{efn-lr|GPL-2.0-only since 2005-04-11. Some parts under compatible licenses such as [[GNU Lesser General Public License|LGPLv2.1]].<ref name="license_lgpl">{{cite web
+ | url         = https://github.com/git/git/blob/master/LGPL-2.1
+ | title       = Git's LGPL license at github.com
+ | date        = 20 May 2011
+ | website     = [[GitHub]]
+ | access-date  = 12 October 2014
+ | url-status  = live
+ | archive-url  = https://web.archive.org/web/20160411135049/https://github.com/git/git/blob/master/LGPL-2.1
+ | archive-date = 11 April 2016}}</ref>}}<ref name="license_gpl">{{cite web
+ | url         = https://github.com/git/git/blob/master/COPYING
+ | title       = Git's GPL license at github.com
+ | date        = 18 January 2010
+ | website     = [[GitHub]]
+ | access-date  = 12 October 2014
+ | url-status  = live
+ | archive-url  = https://web.archive.org/web/20160411135124/https://github.com/git/git/blob/master/COPYING
+ | archive-date = 11 April 2016}}</ref>
+| standard = 
+| AsOf = 
+}}
+
+'''Git''' ({{IPAc-en|g|ɪ|t}})<ref name=":0">{{cite web |url = https://www.youtube.com/watch?v=4XpnKHJAok8&t=1m30s |title = Tech Talk: Linus Torvalds on git (at 00:01:30) |date = 14 May 2007 |via = YouTube |access-date = 2014-07-20 |url-status = live |archive-url = https://web.archive.org/web/20151220133030/https://www.youtube.com/watch?v=4XpnKHJAok8&t=1m30s |archive-date = 20 December 2015}}</ref> is a [[distributed version control]] [[software system|system]]{{sfn | Chacon | Straub | 2014 | pp=29-31}} that tracks versions of [[computer file|files]]. It is often used to control [[source code]] by programmers who are [[software development|developing ]] [[software]] collaboratively.
+
+Design goals of Git include speed, [[data integrity]], and support for [[Distributed computing|distributed]], non-linear workflows&nbsp;— thousands of parallel [[Branching (version control)|branches]] running on different computers.<ref name="kernel_SCM_saga">{{cite mailing list |mailing-list = linux-kernel |last = Torvalds |first = Linus |url = https://marc.info/?l=linux-kernel&m=111288700902396 |title = Re: Kernel SCM saga... |date = 2005-04-07 |access-date = 3 February 2017 |archive-date = 1 July 2019 |archive-url = https://web.archive.org/web/20190701210808/https://marc.info/?l=linux-kernel |url-status = live }} "So I'm writing some scripts to try to track things a whole lot faster."</ref><ref name="integrity_goals">{{cite mailing list |last = Torvalds |first = Linus |author-link = Linus Torvalds |mailing-list = git |date = 2007-06-10 |title = Re: fatal: serious inflate inconsistency |url = https://marc.info/?l=git&m=118143549107708}}</ref><ref name="linusGoogleTalk">{{Cite AV media |people = Linus Torvalds |date = 2007-05-03 |url = https://www.youtube.com/watch?v=4XpnKHJAok8 |title = Google tech talk: Linus Torvalds on git |time = 02:30 |access-date = 2007-05-16 |url-status = live |archive-url = https://web.archive.org/web/20070528041814/http://www.youtube.com/watch?v=4XpnKHJAok8 |archive-date = 28 May 2007}}</ref> 
+
+Git was created for use in the development of the [[Linux kernel]] by [[Linus Torvalds]] and others developing the kernel.<ref name="pro-git-1.2">{{cite book |chapter-url = https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git |chapter = A Short History of Git |title = Pro Git |publisher = Apress |access-date = 26 December 2015 |date = 2014 |edition = 2nd |url = https://git-scm.com/book/en/v2 |url-status = live |archive-url = https://web.archive.org/web/20151225223054/http://git-scm.com/book/en/v2 |archive-date = 25 December 2015}}</ref> 
+
+As with most other distributed version control systems, and unlike most [[client–server]] systems, Git maintains a local copy of the entire [[Repository (version control)|repository]], a.k.a. repo, with history and version-tracking abilities, independent of [[Computer network|network]] access or a central [[Server (computing)|server]]. A repo is stored on each computer in a standard [[directory (computing)|directory]] with additional, hidden files to provide version control capabilities.<ref>{{cite book |last1 = Chacon |first1 = Scott |title = Pro Git |date = 24 December 2014 |publisher = [[Apress]] |location = New York, NY |isbn = 978-1-4842-0077-3 |pages = 29–30 |edition = 2nd |url = https://git-scm.com/book/en/v2 |url-status = live |archive-url = https://web.archive.org/web/20151225223054/http://git-scm.com/book/en/v2 |archive-date = 25 December 2015}}</ref> Git provides features to [[Synchronization (computer science)|synchronize]] changes between repos that share history; copied (cloned) from each other. For collaboration, Git supports synchronizing with repos on [[Computer network|remote]] machines. Although all repos (with the same history) are peers, developers often use a central server to host a repo to hold an integrated copy. 
+
+Git is a [[free and open-source software]] shared under the [[GNU General Public License|GPL-2.0-only license]].
+
+The trademark "Git" is registered by the [[Software Freedom Conservancy]], marking its official recognition and continued evolution in the [[open-source]] community. 
+
+Today, Git is the [[de facto standard]] version control system. It is the most popular distributed version control system, with nearly 95% of developers reporting it as their primary version control system as of 2022.<ref name=":1" /> It is the most widely used source-code management tool among professional developers. There are offerings of Git repository services, including [[GitHub]], [[SourceForge]], [[Bitbucket]] and [[GitLab]].<ref name="Krill 2016">{{cite web |last=Krill |first=Paul |date=28 September 2016 |title=Enterprise repo wars: GitHub vs. GitLab vs. Bitbucket |url=https://www.infoworld.com/article/3123244/enterprise-repo-wars-github-vs-gitlab-vs-bitbucket.html |access-date=2 February 2020 |website=InfoWorld}}</ref><ref name="Alexa github.com" /><ref name="Alexa sourceforge.net" /><ref name="Alexa bitbucket.org" /><ref name="Alexa gitlab.com" />
